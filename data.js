@@ -1,4 +1,12 @@
 const emojiItems = [
+  
+  {
+    title: "A cup of Tea",
+    author: "Amy Ephron",
+    emojiImgs: "🅰️ ⛾ ☕☕",
+    genres: ["fantasy","fiction"],
+    year:1997
+  },
   {
     title: "A Feast for Crows",
     author: "George R. R. Martin",
